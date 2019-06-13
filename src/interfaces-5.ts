@@ -1,3 +1,5 @@
+// see http://www.typescriptlang.org/docs/handbook/interfaces.html
+
 interface SquareConfig {
   width: number;
   color?: string;

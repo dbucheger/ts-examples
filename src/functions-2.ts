@@ -11,7 +11,7 @@ function addThree(x: number, y: number, z?: number): number {
 
 //  With default parameter
 function buildName(firstName: string, lastName = "Smith") {
-    return firstName + " " + lastName;
+    return `${firstName} ${lastName}`;
 }
 
 

@@ -1,3 +1,5 @@
+// from http://www.typescriptlang.org/docs/handbook/classes.html
+
 class Person {
     protected name: string;
     constructor(name: string) { this.name = name; }
